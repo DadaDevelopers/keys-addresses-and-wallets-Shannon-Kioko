@@ -1,0 +1,6 @@
+{
+  "name": "shaukiwallet"
+}
+1D2rsDYM6WgEmEjnUzWbKTurZ2ed9qK87s
+bc1qyl7jdej99my8750cjetd05a90r8elnswluc6n2
+bc1pgdzm5qmssfe4vxk0c80wcztg35yuadxeefd3lvngs3panu5n4eqqacyhwk
